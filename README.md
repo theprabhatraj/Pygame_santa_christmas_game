@@ -1,5 +1,5 @@
-# Santa game using Pygame
-Santa is a Platformer game made using python
+# Santa Clause game using Pygame
+Santa Christmas is a Platformer game made using python
 
 **GamePlay** 
 
